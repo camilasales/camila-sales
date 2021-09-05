@@ -8,7 +8,7 @@
 
  
 
-## About me
+## Sobre
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilasalessilva/)](https://www.linkedin.com/in/camilasalessilva/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilasales&show_icons=true&theme=default_repocard)
